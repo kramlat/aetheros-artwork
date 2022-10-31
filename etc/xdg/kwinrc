@@ -1,0 +1,8 @@
+[Wayland]
+InputMethod[$e]=/usr/share/applications/com.github.maliit.keyboard.desktop
+VirtualKeyboardEnabled=true
+
+[org.kde.kdecoration2]
+NoPlugin=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__PlasmaDeck
